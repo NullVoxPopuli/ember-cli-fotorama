@@ -1,6 +1,6 @@
 # Ember-cli-fotorama
 
-This README outlines the details of collaborating on this Ember addon.
+This ember addon implements a component for the image library fotorama.io
 
 ## Installation
 
